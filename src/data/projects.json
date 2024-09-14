@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Portfolio",
+    "description": "A Portfolio website for showcasing my experiences and other innovative projects.",
+    "thumbnail": "https://github.com/deepanshuxharry/images/blob/main/Screenshot%202024-09-14%20174905.png?raw=true",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "topics": [
+      "JavaScript",
+      "Netlify"
+    ],
+    "repository": "https://aquamarine-valkyrie-8850f6.netlify.app/"
+  },
+  {
+    "id": "2",
+    "name": "E-Commerce",
+    "description": "An simple E-Commerce website where you can test out the database CRUD operations, order managements and payment processing system.",
+    "thumbnail": "https://job-infos.kyawzinthiha.com/Portfolio/e-commerce.webp",
+    "languages": [
+      "TypeScript",
+      "Node",
+      "SCSS"
+    ],
+    "topics": [
+      "NextJS",
+      "Vercel",
+      "MongoDB",
+      "Stripe",
+      "SendGrid"
+    ],
+    "repository": "https://github.com/kyawzin-thiha/simple-ecom"
+  },
+  {
+    "id": "3",
+    "name": "Music-Player",
+    "description": "A music-player application for showoff",
+    "languages": [
+      "JavaScript",
+      "CSS"
+    ],
+    "topics": [
+      "JavaScript",
+      "CSS"
+    ],
+    "thumbnail": "https://github.com/deepanshuxharry/images/blob/main/Screenshot%202024-09-14%20174635.png?raw=true",
+    "repository": "https://srishtii10.github.io/Music-player-app/"
+  },
+  {
+    "id": "4",
+    "name": "Sorting Algorithm Visualizer",
+    "description": "A  Sorting Algorithm Visualizer that uses animation to understand how different sorting algorithm works",
+    "languages": [
+      "JavaScript" ,
+      "HTML",
+      "CSS"
+    ],
+    "topics": [
+      "JavaScript",
+      "CSS"
+    ],
+    "thumbnail": "https://github.com/deepanshuxharry/images/blob/main/Screenshot%202024-09-14%20173950.png?raw=true",
+    "repository": "https://sortingbydeepanshusharma.netlify.app/"
+  }
+]

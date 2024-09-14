@@ -1,0 +1,48 @@
+
+[
+  {
+    "time": "Feb 2024 - Present",
+    "title": "Web Developer - Freelance",
+    "description": "Designed, developed, and shipped production code for multiple clients using React.js, Node.js, Express.js, OpenAI GPT, and Redux for state management.",
+    "tags": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Redux",
+      "OpenAI-GPT"
+    
+    ]
+  },
+  {
+    "time": "Feb 2024 - April 2024",
+    "title": "Mentor - Coding Ninjas",
+    "description": "Solved DSA doubts for students, primarily using Java, and provided guidance for effective problem-solving strategies.",
+    "tags": [
+      "Java",
+      "Data Structures & Algorithms",
+      "Mentorship"
+    ]
+  },
+  {
+    "time": "Aprl 2023- May 2023",
+    "title": "Cloud Intern - Linux World",
+    "description": "Developed projects using AWS services such as S3, Lambda, EC2, and handled hosting and DNS management tasks.",
+    "tags": [
+      "AWS",
+      "S3",
+      "Lambda",
+      "EC2",
+      "DNS Management"
+    ]
+  },
+  {
+    "time": "2023 - present",
+    "title": "Co-founder - MarketDalal",
+    "description": "Co-founded an agency focused on creating content to help businesses grow online and establish a stronger presence.",
+    "tags": [
+      "Content Creation",
+      "Digital Marketing",
+      "Business Growth"
+    ]
+  }
+]
