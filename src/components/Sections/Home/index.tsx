@@ -5,7 +5,7 @@ import LinkedIn from '@/resources/svgs/contact-icons/linkedin.svg';
 import Mail from '@/resources/svgs/contact-icons/mail.svg';
 import Resume from '@/resources/svgs/resume.svg';
 import styles from './home.module.scss';
-import Code  from '@/resources/svgs/contact-icons/code.svg';
+import Code from '@/resources/svgs/contact-icons/code.svg';
 
 export default function Home() {
     return (
@@ -36,7 +36,7 @@ export default function Home() {
                         <Image src={LinkedIn} alt={'LinkedIn'} className={styles.icon} width={18} height={18}/>
                         <div className={styles.label}>LinkedIn</div>
                     </a>
-                    <a href="mailto: deepanshu43sharma@gmail.com" className={styles.links}>
+                    <a href="mailto:deepanshu43sharma@gmail.com" className={styles.links}>
                         <Image src={Mail} alt={'Mail'} className={styles.icon} width={22} height={22}/>
                         <div className={styles.label}>Mail</div>
                     </a>
@@ -48,10 +48,14 @@ export default function Home() {
                 <hr className={styles.divider}/>
                 <div className={styles.summery}>
                     <p>
-                        Hi, I&apos;m Deepanshu Sharma — a <b>DevOps Engineer</b> experienced in <b>AWS</b>, 
+                        Hi, I&apos;m Deepanshu Sharma — a <b>DevOps Engineer</b> skilled in <b>AWS</b>, 
                         <b> CI/CD pipelines</b>, <b> Docker</b>, <b>Kubernetes</b>, and <b>automation tools</b>. 
-                        Passionate about building scalable infrastructure and streamlining deployments.
+                        I focus on building scalable infrastructure and streamlining deployments.
                     </p>
+                    <div className={styles.skills}>
+                        <p><b>Tools & Platforms:</b> Docker, AWS (S3, EC2, Route 53, Lambda, API Gateway, CloudWatch, IAM, Transcribe), Kubernetes, Jenkins, Linux, Git/GitHub, Cloudflare, Checkmk, Datadog</p>
+                        <p><b>Frameworks & Libraries:</b> Groovy, boto3</p>
+                    </div>
                 </div>
             </div>
         </Container>
