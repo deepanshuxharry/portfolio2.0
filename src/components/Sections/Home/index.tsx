@@ -18,13 +18,13 @@ export default function Home() {
                 <div className={styles.introduction}>
                     Hey, I&apos;m Deepanshu Sharma
                     <div className={styles.occupation}>
-                        Fullstack Developer.
+                        DevOps Engineer.
                     </div>
                 </div>
                 <div className={styles.contacts}>
                     <a href="https://drive.google.com/file/d/1xu7Ci3Slhm_wRSZ3jXkRYScuJLGxptxW/view?usp=sharing" target="_blank"
                        className={styles['resume-button']}>
-                        <Image src={Resume} alt={'GitHub'} className={styles.icon} width={20} height={20}/>
+                        <Image src={Resume} alt={'Resume'} className={styles.icon} width={20} height={20}/>
                         <div className={styles.label}>Resume</div>
                     </a>
                     <a href="https://github.com/deepanshuxharry" target="_blank" className={styles.links}>
@@ -41,30 +41,19 @@ export default function Home() {
                         <div className={styles.label}>Mail</div>
                     </a>
                     <a href="https://www.naukri.com/code360/profile/1e497968-e862-41f5-9003-d2de2205788e" className={styles.links}>
-                        <Image src={Code} alt={'Mail'} className={styles.icon} width={22} height={22}/>
+                        <Image src={Code} alt={'Code 360'} className={styles.icon} width={22} height={22}/>
                         <div className={styles.label}>Code 360°</div>
                     </a>
                 </div>
                 <hr className={styles.divider}/>
                 <div className={styles.summery}>
                     <p>
-                        Hey!, I&apos;m Deepanshu Sharma, <b> Experienced full-stack developer </b>  with
-                        over 2
-                        years of
-                        experience
-                        in <b>React</b>,<b> Next</b>,<b> Node</b>.js with<b> MongoDB</b>. Ready to
-                        build innovative web applications and always putting out creative solutions to
-                        problems.
-                    </p><br/>
-                  
-                    {/* <p>
-                        When I’m not at the computer, I’m usually playing football, reading books, watching movies,
-                        relaxing at the
-                        beach thinking about the next big thing.
-                    </p> */}
+                        Hi, I&apos;m Deepanshu Sharma — a <b>DevOps Engineer</b> experienced in <b>AWS</b>, 
+                        <b> CI/CD pipelines</b>, <b> Docker</b>, <b>Kubernetes</b>, and <b>automation tools</b>. 
+                        Passionate about building scalable infrastructure and streamlining deployments.
+                    </p>
                 </div>
             </div>
         </Container>
     );
 }
-
