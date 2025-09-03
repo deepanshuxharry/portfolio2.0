@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Ansible Cluster in Docker & Kubernetes",
     "description": "Configured and deployed an Ansible cluster running inside Docker containers and Kubernetes pods for automated configuration management.",
-    "thumbnail": "turn0image1",
+    "thumbnail": "https://spaceliftio.wpcomstaging.com/wp-content/uploads/2023/05/devops-pipeline-diagram.png",
     "languages": ["YAML", "Dockerfile", "Shell"],
     "topics": ["Ansible", "Docker", "Kubernetes", "Automation"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project1-Ansible-Cluster-in-Docker-Container-and-Kubernetes-Pod"
@@ -12,7 +12,7 @@
     "id": "2",
     "name": "Jenkins Cluster in Docker & Kubernetes",
     "description": "Deployed Jenkins in Docker containers and Kubernetes pods to manage build automation and CI/CD pipelines.",
-    "thumbnail": "turn0image4",
+    "thumbnail": "https://corporate-assets.lucid.co/chart/636fd12c-8356-4adc-a781-434eccbd3b5a.png?v=1707847405047",
     "languages": ["YAML", "Dockerfile", "Groovy"],
     "topics": ["Jenkins", "CI/CD", "Docker", "Kubernetes"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project2-Jenkins-Cluster-in-Docker-Container-and-Kubernetes-Pod"
@@ -21,7 +21,7 @@
     "id": "3",
     "name": "Dockerized WebApp Deployment with Ansible on Kubernetes",
     "description": "Automated the deployment of a containerized web application using Ansible playbooks on a Kubernetes cluster.",
-    "thumbnail": "turn0image7",
+    "thumbnail": "https://blog.exigence.io/hs-fs/hubfs/devops-pipeline-1024x494.png?name=devops-pipeline-1024x494.png&width=1024",
     "languages": ["YAML", "Dockerfile", "JavaScript"],
     "topics": ["Ansible", "Docker", "Kubernetes", "Deployment"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project3-Deploy-a-Dockerized-WebApp-using-Ansible-Playbook-on-Kubernetes-Cluster"
@@ -30,7 +30,7 @@
     "id": "4",
     "name": "CI/CD Pipeline with Jenkins, Ansible & Docker",
     "description": "Built a complete CI/CD pipeline from scratch integrating Jenkins, Ansible, and Docker for automated builds and deployments.",
-    "thumbnail": "turn0image6",
+    "thumbnail": "https://petri.com/wp-content/uploads/2022/05/Figure1-2-1024x580.png",
     "languages": ["YAML", "Dockerfile", "Groovy"],
     "topics": ["CI/CD", "Jenkins", "Ansible", "Docker"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project05-Configure-CI-CD-Pipeline-Jenkins-Ansible-Docker-from-scratch"
@@ -39,7 +39,7 @@
     "id": "5",
     "name": "Kubeadm Multi-Node Cluster with Jenkins & Ansible",
     "description": "Configured a multi-node Kubernetes cluster using Kubeadm and automated deployments with Jenkins and Ansible.",
-    "thumbnail": "turn0image1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHuJnqbWXLSo9Dbd99XD_71B3vgBA0bqIbAg&s", 
     "languages": ["YAML", "Dockerfile", "Shell"],
     "topics": ["Kubeadm", "Kubernetes", "Jenkins", "Ansible", "Automation"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project-06-Kubeadm-Multi-Node-Deploy-Dockerized-Jenkins-Ansible-Automate-Deployment"
@@ -48,7 +48,7 @@
     "id": "6",
     "name": "Ansible Driven Configuration Management in Kubernetes",
     "description": "Implemented configuration management for Apache server inside Kubernetes pods using Ansible playbooks.",
-    "thumbnail": "turn0image7",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I4quWXTXXYdi82bNnSGEASDMipOqARaZ7Q&s",
     "languages": ["YAML", "Dockerfile", "Shell"],
     "topics": ["Ansible", "Kubernetes", "Apache", "Configuration Management"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project-07-Ansible-Driven-Configuration-Management-Inside-Kubernetes-Pod-apache"
@@ -57,7 +57,7 @@
     "id": "7",
     "name": "Full DevOps Workflow: CodePush to Kubernetes",
     "description": "Designed a complete DevOps workflow including code push, Jenkins build, Ansible deployment, Docker containerization, and Kubernetes services.",
-    "thumbnail": "turn0image4",
+    "thumbnail": "https://www.devopsschool.com/blog/wp-content/uploads/2023/08/image-448-1024x524.png",
     "languages": ["YAML", "Dockerfile", "Groovy"],
     "topics": ["DevOps", "Jenkins", "Ansible", "Docker", "Kubernetes", "CI/CD"],
     "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project-08-Full-DevOps-Workflow-CodePush-JenkinsBuild-Ansible-Deploy-DockerContainer-K8s-Service"
