@@ -1,42 +1,49 @@
-
 [
   {
-    "time": "Feb 2024 - Present",
-    "title": "Web Developer - Freelance",
-    "description": "Designed, developed, and shipped production code for multiple clients using React.js, Node.js, Express.js, OpenAI GPT, and Redux for state management.",
+    "time": "July 2025 - Present",
+    "title": "DevOps Engineer - Fple Technology Pvt. Ltd.",
+    "description": "Reduced monitoring costs by 100% by replacing Grafana & Prometheus with Checkmk. Cut staging costs by 60% using Docker Compose on EC2. Configured Cloudflare for DNS & SSL to improve reliability. Automated CI/CD with Jenkins + Ansible reducing release time by 40%. Set up NFS between on-premise and AWS EC2 for seamless file sharing. Designed a cost-efficient AWS architecture reducing infra expenses by 45%.",
     "tags": [
-      "React.js",
-      "Node.js",
-      "Express.js",
-      "Redux",
-      "OpenAI-GPT"
-    
-    ]
-  },
-  {
-    "time": "Feb 2024 - April 2024",
-    "title": "Mentor - Coding Ninjas",
-    "description": "Solved DSA doubts for students, primarily using Java, and provided guidance for effective problem-solving strategies.",
-    "tags": [
-      "Java",
-      "Data Structures & Algorithms",
-      "Mentorship"
-    ]
-  },
-  {
-    "time": "Aprl 2023- May 2023",
-    "title": "Cloud Intern - Linux World",
-    "description": "Developed projects using AWS services such as S3, Lambda, EC2, and handled hosting and DNS management tasks.",
-    "tags": [
+      "DevOps",
       "AWS",
-      "S3",
-      "Lambda",
       "EC2",
-      "DNS Management"
+      "Docker",
+      "Docker Compose",
+      "Cloudflare",
+      "Jenkins",
+      "Ansible",
+      "NFS",
+      "CI/CD",
+      "Automation",
+      "Monitoring",
+      "Checkmk"
     ]
   },
   {
-    "time": "2023 - present",
+    "time": "Dec 2024 - June 2025",
+    "title": "DevOps Engineer - LinuxWorld",
+    "description": "Authored Kubernetes manifests for Deployment, ReplicationController, and Services. Implemented RollingUpdate & Recreate strategies for zero-downtime deployments. Designed networking with ClusterIP, NodePort, and LoadBalancer. Optimized Docker images using multi-stage builds with Alpine Linux, reducing size from GBs to MBs. Automated CI/CD pipelines in Jenkins with freestyle and declarative jobs. Set up local Kubernetes environments with Minikube & LocalStack.",
+    "tags": [
+      "DevOps",
+      "Kubernetes",
+      "Docker",
+      "Multi-stage Builds",
+      "Alpine Linux",
+      "Jenkins",
+      "CI/CD",
+      "YAML",
+      "RollingUpdate",
+      "Recreate",
+      "Networking",
+      "ClusterIP",
+      "NodePort",
+      "LoadBalancer",
+      "Minikube",
+      "LocalStack"
+    ]
+  },
+  {
+    "time": "2023 - Present",
     "title": "Co-founder - MarketDalal",
     "description": "Co-founded an agency focused on creating content to help businesses grow online and establish a stronger presence.",
     "tags": [
