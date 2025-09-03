@@ -22,7 +22,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className={styles.contacts}>
-                    <a href="https://drive.google.com/file/d/1xu7Ci3Slhm_wRSZ3jXkRYScuJLGxptxW/view?usp=sharing" target="_blank"
+                    <a href="https://drive.google.com/file/d/1H_GW1ZUE9KUEkOSXhgZXTBpGXYsLWlxJ/view?usp=sharing" target="_blank"
                        className={styles['resume-button']}>
                         <Image src={Resume} alt={'Resume'} className={styles.icon} width={20} height={20}/>
                         <div className={styles.label}>Resume</div>
