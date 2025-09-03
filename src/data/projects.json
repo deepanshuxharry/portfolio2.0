@@ -1,68 +1,131 @@
 [
   {
     "id": "1",
-    "name": "Portfolio",
-    "description": "A Portfolio website for showcasing my experiences and other innovative projects.",
-    "thumbnail": "https://github.com/deepanshuxharry/images/blob/main/Screenshot%202024-09-14%20174905.png?raw=true",
+    "name": "Ansible Cluster in Docker & Kubernetes",
+    "description": "Configured and deployed an Ansible cluster running inside Docker containers and Kubernetes pods for automated configuration management.",
+    "thumbnail": "",
     "languages": [
-      "HTML",
-      "CSS",
-      "JavaScript"
+      "YAML",
+      "Dockerfile",
+      "Shell"
     ],
     "topics": [
-      "JavaScript",
-      "Netlify"
+      "Ansible",
+      "Docker",
+      "Kubernetes",
+      "Automation"
     ],
-    "repository": "https://aquamarine-valkyrie-8850f6.netlify.app/"
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project1-Ansible-Cluster-in-Docker-Container-and-Kubernetes-Pod"
   },
   {
     "id": "2",
-    "name": "E-Commerce",
-    "description": "An simple E-Commerce website where you can test out the database CRUD operations, order managements and payment processing system.",
-    "thumbnail": "https://job-infos.kyawzinthiha.com/Portfolio/e-commerce.webp",
+    "name": "Jenkins Cluster in Docker & Kubernetes",
+    "description": "Deployed Jenkins in Docker containers and Kubernetes pods to manage build automation and CI/CD pipelines.",
+    "thumbnail": "",
     "languages": [
-      "TypeScript",
-      "Node",
-      "SCSS"
+      "YAML",
+      "Dockerfile",
+      "Groovy"
     ],
     "topics": [
-      "NextJS",
-      "Vercel",
-      "MongoDB",
-      "Stripe",
-      "SendGrid"
+      "Jenkins",
+      "CI/CD",
+      "Docker",
+      "Kubernetes"
     ],
-    "repository": ""
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project2-Jenkins-Cluster-in-Docker-Container-and-Kubernetes-Pod"
   },
   {
     "id": "3",
-    "name": "Music-Player",
-    "description": "A music-player application for showoff",
+    "name": "Dockerized WebApp Deployment with Ansible on Kubernetes",
+    "description": "Automated the deployment of a containerized web application using Ansible playbooks on a Kubernetes cluster.",
+    "thumbnail": "",
     "languages": [
-      "JavaScript",
-      "CSS"
+      "YAML",
+      "Dockerfile",
+      "JavaScript"
     ],
     "topics": [
-      "JavaScript",
-      "CSS"
+      "Ansible",
+      "Docker",
+      "Kubernetes",
+      "Deployment"
     ],
-    "thumbnail": "https://github.com/deepanshuxharry/images/blob/main/Screenshot%202024-09-14%20174635.png?raw=true",
-    "repository": "https://srishtii10.github.io/Music-player-app/"
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project3-Deploy-a-Dockerized-WebApp-using-Ansible-Playbook-on-Kubernetes-Cluster"
   },
   {
     "id": "4",
-    "name": "Sorting Algorithm Visualizer",
-    "description": "A  Sorting Algorithm Visualizer that uses animation to understand how different sorting algorithm works",
+    "name": "CI/CD Pipeline with Jenkins, Ansible & Docker",
+    "description": "Built a complete CI/CD pipeline from scratch integrating Jenkins, Ansible, and Docker for automated builds and deployments.",
+    "thumbnail": "",
     "languages": [
-      "JavaScript" ,
-      "HTML",
-      "CSS"
+      "YAML",
+      "Dockerfile",
+      "Groovy"
     ],
     "topics": [
-      "JavaScript",
-      "CSS"
+      "CI/CD",
+      "Jenkins",
+      "Ansible",
+      "Docker"
     ],
-    "thumbnail": "https://github.com/deepanshuxharry/images/blob/main/Screenshot%202024-09-14%20173950.png?raw=true",
-    "repository": "https://sortingbydeepanshusharma.netlify.app/"
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project05-Configure-CI-CD-Pipeline-Jenkins-Ansible-Docker-from-scratch"
+  },
+  {
+    "id": "5",
+    "name": "Kubeadm Multi-Node Cluster with Jenkins & Ansible",
+    "description": "Configured a multi-node Kubernetes cluster using Kubeadm and automated deployments with Jenkins and Ansible.",
+    "thumbnail": "",
+    "languages": [
+      "YAML",
+      "Dockerfile",
+      "Shell"
+    ],
+    "topics": [
+      "Kubeadm",
+      "Kubernetes",
+      "Jenkins",
+      "Ansible",
+      "Automation"
+    ],
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project-06-Kubeadm-Multi-Node-Deploy-Dockerized-Jenkins-Ansible-Automate-Deployment"
+  },
+  {
+    "id": "6",
+    "name": "Ansible Driven Configuration Management in Kubernetes",
+    "description": "Implemented configuration management for Apache server inside Kubernetes pods using Ansible playbooks.",
+    "thumbnail": "",
+    "languages": [
+      "YAML",
+      "Dockerfile",
+      "Shell"
+    ],
+    "topics": [
+      "Ansible",
+      "Kubernetes",
+      "Apache",
+      "Configuration Management"
+    ],
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project-07-Ansible-Driven-Configuration-Management-Inside-Kubernetes-Pod-apache"
+  },
+  {
+    "id": "7",
+    "name": "Full DevOps Workflow: CodePush to Kubernetes",
+    "description": "Designed a complete DevOps workflow including code push, Jenkins build, Ansible deployment, Docker containerization, and Kubernetes services.",
+    "thumbnail": "",
+    "languages": [
+      "YAML",
+      "Dockerfile",
+      "Groovy"
+    ],
+    "topics": [
+      "DevOps",
+      "Jenkins",
+      "Ansible",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "repository": "https://github.com/deepanshuxharry/All-LinuxWorld-Devops-projects/tree/main/LW-Project-08-Full-DevOps-Workflow-CodePush-JenkinsBuild-Ansible-Deploy-DockerContainer-K8s-Service"
   }
 ]
